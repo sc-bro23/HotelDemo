@@ -3,7 +3,7 @@ JavaWeb实训项目，初次使用SpringBoot和Maven。项目由4名同学共同
 
 ## 文件夹结构整体采用小作坊结构
 ### 空白的文件夹，根据需要向内增加文件
-* bower_components 对应 模板的同名文件夹
+* bower_components 对应 模板的同名文件夹,该文件夹内js和css文件请保存在下面所列举的js和css文件夹内
 * build 对应 模版的同名文件夹
 * documentation 对应 模版的同名文件夹
 ### 完整的文件夹，根据需求修改内部文件
@@ -13,4 +13,5 @@ JavaWeb实训项目，初次使用SpringBoot和Maven。项目由4名同学共同
 * css 存放 所有的css文件
 * img 存放 所有的img文件
 * js 存放 所有的js文件
+* font 存放 所有的字体文件
 
