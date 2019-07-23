@@ -1,5 +1,7 @@
 # HotelDemo QQ酒店辅助管理系统
-JavaWeb实训项目，初次使用SpringBoot和Maven。项目由4名同学共同完成。
+* JavaWeb实训项目，初次使用SpringBoot和Maven。项目由4名同学共同完成
+* 此项目前端大部分来自于开源项目AdminLTE，此项目仅做学习
+* 为了更方便地阅读学习借鉴，我们将min.js min.css均改为有缩进换行的文件
 
 ## 文件夹结构整体采用小作坊结构
 ### 空白的文件夹，根据需要向内增加文件
