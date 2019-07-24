@@ -5,7 +5,7 @@ QQ酒店辅助管理系统项目，前端代码
 ## 关联仓库
 * 此仓库仅包涵前端部分，后端部分在另一个仓库
 > 后端代码仓库地址
-> https://github.com/sc-bro23/HotelDemoBackEnd
+> https://github.com/sc-bro23/HotelDemo_BackEnd
 ## 文件说明
 * 此项目部分代码基于开源项目AdminLTE进行修改，此项目仅做学习
 * 为了更方便地阅读学习借鉴，我们将min.js min.css均改为有缩进换行的文件
